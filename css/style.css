@@ -56,7 +56,7 @@ form {
 
 input, textarea {
 
-border:1px #D4D4D4 solid;
+    border:1px #D4D4D4 solid;
 
 }
 
@@ -82,13 +82,13 @@ textarea {
 
 footer {
 
-background-color: #f8f8f8;
-clear: left;
-height: 65px;
-margin: 10px auto;
-padding: 10px 0 5px;
-text-align: center;
-width: 100%;
+    background-color: #f8f8f8;
+    clear: left;
+    height: 65px;
+    margin: 10px auto;
+    padding: 10px 0 5px;
+    text-align: center;
+    width: 100%;
 
 }
 
@@ -129,10 +129,10 @@ header {
 
 .user_info {
 
-height: 350px;
-margin: 100px auto;
-width: 500px;
-text-align: center;
+    height: 350px;
+    margin: 100px auto;
+    text-align: center;
+    width: 500px;
 
 
 
@@ -189,8 +189,8 @@ ul a {
 
 li {
     float: center;
-    text-align: center;
     margin-left:24px;
+    text-align: center;
 }
 
 a.button:link, a.button:visited {
@@ -350,8 +350,8 @@ background-color:#ebebeb;
 
  .form_container label 
  {
-margin-left: 90px;
-float: left;
+    margin-left: 90px;
+    float: left;
  }
 
 .form_button
